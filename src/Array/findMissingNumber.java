@@ -1,4 +1,3 @@
-package Array;
 
 public class findMissingNumber {
     /*Given an array of size N-1 such that it only contains distinct integers

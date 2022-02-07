@@ -1,5 +1,3 @@
-package Array;
-
 public class sort012 {
     public static void sort(int[] arr,int n){
         int start=0;

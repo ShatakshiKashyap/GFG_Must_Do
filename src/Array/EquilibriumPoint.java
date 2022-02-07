@@ -1,5 +1,3 @@
-package Array;
-
 public class EquilibriumPoint {
     public int findEquilibriumPoint(long[] arr,int n){
         if(n==1) return 1;
